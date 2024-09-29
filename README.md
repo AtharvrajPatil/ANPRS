@@ -36,12 +36,10 @@ The implementation in this repository corresponds to the following research pape
 **Title:** Deep Learning-based approach for Indian License Plate Recognition using Optical Character Recognition
 
 **Authors:** 
-- Aditya Upadhye
 - Atharvraj Patil
+- Aditya Upadhye
 - Jayesh Ingale
 - Sakshi Jaiswal
-- Suhas Kakade
-- Abhishek Bhatt
   
 **Link:** https://ieeexplore.ieee.org/abstract/document/10183391
 
