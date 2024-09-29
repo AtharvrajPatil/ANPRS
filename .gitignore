@@ -1,0 +1,6 @@
+local_env/
+.vscode/
+__pycache__
+dist/
+anprs.egg-info/
+build/
